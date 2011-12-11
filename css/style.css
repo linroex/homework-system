@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+
+#login-form,#content{
+	width:350px;
+	min-height:150px;
+	padding-bottom:20px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin:-120px 0 0 -150px;
+	border-radius:5px;
+	background:white;
+	text-align:center;
+	
+}
+body{
+	background:black;
+	
+}
+#content{
+	width:650px;
+	min-height:400px;
+	padding-bottom:20px;
+	margin:-300px 0 0 -300px;
+}
+#result{
+	width:400px;
+	margin:0 auto;
+	
+}
